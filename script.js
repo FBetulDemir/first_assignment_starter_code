@@ -25,3 +25,17 @@ function menu() {
 
 // starts with the function asUserName() which triggers the menu() function
 askUserName();
+
+
+
+
+// const triangleOne = 10*13/2
+// console.log(triangleOne)
+
+// const triangleTwo = 16.5 * 20.3/ 2
+// console.log(triangleTwo)
+
+// if (triangleOne > triangleTwo)
+//   console.log(triangleOne);
+// else;
+//   console.log(triangleTwo);
